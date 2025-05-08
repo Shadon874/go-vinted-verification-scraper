@@ -16,14 +16,15 @@ A Go-based scraper for verifying items on Vinted.
    cd go-vinted-verification-scraper
 
 2. Initialize Go modules (if you haven't already):
+   ```bash
    go mod tidy
 
 3. Build the project:
-
+   ```bash
    go build -o main .
 
 4. Run the project:
-
+   ```bash
     ./main
 
 ##Usage
