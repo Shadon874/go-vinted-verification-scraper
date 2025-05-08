@@ -27,7 +27,7 @@ A Go-based scraper for verifying items on Vinted.
    ```bash
     ./main
 
-##Usage
+## Usage
 
     Open the terminal and navigate to the project directory.
 
@@ -37,14 +37,14 @@ A Go-based scraper for verifying items on Vinted.
 
     The scraper will verify the item details as per your configuration.
 
-##Warning
+## Warning
 
     Please be aware: Scraping websites like Vinted can result in your IP address being blocked or restricted if you make too many requests in a short period of time. It is highly recommended to use this tool responsibly and avoid overloading the server.
     If you are blocked, it could be temporary, but repeated attempts may result in permanent bans.
 
 Use this tool at your own risk.
 
-##Contributing
+## Contributing
 
     Fork the repository.
     Create a new branch for your feature or bugfix.
