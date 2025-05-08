@@ -51,3 +51,7 @@ Use this tool at your own risk.
     Make your changes and commit them.
     Push your changes to your fork.
     Open a pull request to the main repository.
+
+## Legal Disclaimer
+This scraper is intended for educational purposes only. Please ensure that you comply with the website's terms of service and relevant local laws before using it. The repository owner is not responsible for any legal issues arising from the use of this scraper.
+
